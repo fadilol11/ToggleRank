@@ -1,0 +1,13 @@
+name: ToggleRank-MrFadi
+version: 0.1
+author: MrFadi
+main: TCommand.Core
+description: /t
+commands:
+  t:
+    aliases: [togglerank]
+
+
+
+
+
